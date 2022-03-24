@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/homePage.unity
+    guid: 175f6edf51c96964c9bbf36162ac6e47
+  - enabled: 1
+    path: Assets/Scenes/placesChoose.unity
+    guid: 306c4618c8bb98543a66efc554383ee7
+  - enabled: 1
+    path: Assets/Scenes/chaptersPage.unity
+    guid: d9c2b3df0ef91b54a9af8f136b13f0f4
+  - enabled: 1
+    path: Assets/Scenes/Achievement.unity
+    guid: 12cc452c97950144e8f0c6e95169a020
+  - enabled: 1
+    path: Assets/Scenes/Chapter1.0.unity
+    guid: f218ed6838c48b7498eee41b9d207d17
+  - enabled: 1
+    path: Assets/Scenes/Chapter1.1.unity
+    guid: 3fdd64de54b22794aa06a0b162106ef1
+  - enabled: 1
+    path: Assets/Scenes/Chapter2.0.unity
+    guid: aa0ed51f2aff0af4388443f656045ff0
+  - enabled: 1
+    path: Assets/Scenes/Chapter3.0.unity
+    guid: 0ecd219d0b7b6e54e877cc209bed0c7b
+  - enabled: 1
+    path: Assets/Scenes/Chapter5.0.unity
+    guid: fcac02eaa2f14bd4d9748cc6a8327fc7
+  - enabled: 1
+    path: Assets/Scenes/partIntroduction.unity
+    guid: e6c02a0255d4a6543893524d789a28e5
+  - enabled: 1
+    path: Assets/Scenes/Chapter1guidance.unity
+    guid: 2872b7ec50828434990c06fd41e603f5
+  m_configObjects: {}
